@@ -1,0 +1,2 @@
+# taro-gbw
+作为一个购买了正版的WebStorm的Developer来说，实在忍受不了HBuilderX这个软件
