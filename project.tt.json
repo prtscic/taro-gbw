@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "taro-gbw",
+  "description": "pnpm",
+  "appid": "wx4c4f26e882293bfc",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
